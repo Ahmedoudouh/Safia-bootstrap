@@ -1,0 +1,115 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Sora', sans-serif;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.gap {
+    gap: 138px;
+}
+
+.bg-gray {
+    background-color: #070E27;
+}
+
+.btn {
+    background-color: #162044;
+}
+
+.bnt-size {
+    background-color: #0059F7;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.font-project {
+    font-family: 'Sora', sans-serif;
+}
+
+.with-p {
+    width: 65%;
+}
+
+.container-section-1 {
+    max-width: 1060px;
+    margin: 0 auto;
+}
+
+.border-b {
+    border-bottom: 1px solid #4E5A85;
+}
+
+.container-sm {
+    max-width: 909px;
+    margin: 0 auto;
+}
+
+.container-section-2 {
+    max-width: 704px;
+    margin: 0 auto;
+}
+
+.with {
+    width: 37%;
+}
+
+.border-cader {
+    border: 1px solid #162044;
+    border-radius: 16px;
+}
+
+.font-p {
+    font-size: 16px;
+    line-height: 24px;
+    color: #CCD2E9;
+}
+
+.color-bnt {
+    background: #689EFF;
+    padding: 15px;
+}
+
+.round-more {
+    border-radius: 20px;
+}
+
+.bg-style {
+    background-color: #081131;
+}
+
+.container-prcing {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.gap-pricing {
+    display: grid;
+    gap: 11px;
+}
+
+.bg-color-other {
+    background-color: #162044;
+    height: 470px;
+}
+
+.border-radius {
+    border-radius: 15px;
+}
+
+footer {
+    background-color: #162044;
+    font-size: 14px;
+    line-height: 24px;
+    color: #CCD2E9;
+}
+
+.bg-blue {
+    background-color: #689EFF;
+}
