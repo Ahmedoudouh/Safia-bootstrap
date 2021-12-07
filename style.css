@@ -33,10 +33,6 @@ body {
     font-family: 'Sora', sans-serif;
 }
 
-.with-p {
-    width: 65%;
-}
-
 .container-section-1 {
     max-width: 1060px;
     margin: 0 auto;
@@ -44,6 +40,10 @@ body {
 
 .border-b {
     border-bottom: 1px solid #4E5A85;
+}
+
+.b-radius {
+    border-radius: 8px;
 }
 
 .container-sm {
@@ -54,10 +54,6 @@ body {
 .container-section-2 {
     max-width: 704px;
     margin: 0 auto;
-}
-
-.with {
-    width: 37%;
 }
 
 .border-cader {
@@ -73,7 +69,7 @@ body {
 
 .color-bnt {
     background: #689EFF;
-    padding: 15px;
+    padding: 20px;
 }
 
 .round-more {
@@ -96,7 +92,7 @@ body {
 
 .bg-color-other {
     background-color: #162044;
-    height: 555px;
+    height: 610px;
 }
 
 .border-radius {
@@ -112,4 +108,25 @@ footer {
 
 .bg-blue {
     background-color: #689EFF;
+}
+
+.gap-more {
+    gap: 252px;
+}
+
+.w-more {
+    width: 89%;
+}
+
+.text-color {
+    color: #7E8BB6;
+}
+
+.m-more {
+    padding-bottom: 96px;
+}
+
+.p-more {
+    padding-top: 72px;
+    padding-bottom: 72px;
 }
